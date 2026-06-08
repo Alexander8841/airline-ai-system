@@ -1,0 +1,14 @@
+{
+  "ABC123": {
+    "passenger": "Ivan Petrov",
+    "flight_key": "SU2454_0220",
+    "status": "confirmed",
+    "class": "economy"
+  },
+  "XYZ789": {
+    "passenger": "Maria Sidorova",
+    "flight_key": "SU2580_0220",
+    "status": "confirmed",
+    "class": "business"
+  }
+}

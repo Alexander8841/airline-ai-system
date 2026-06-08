@@ -1,0 +1,90 @@
+[
+  {
+    "id": "SU2454",
+    "from": "MOW",
+    "to": "PAR",
+    "date": "2026-02-20",
+    "time": "08:30",
+    "price": 25000,
+    "seats": 5,
+    "class": "economy",
+    "flight_key": "SU2454_0220"
+  },
+  {
+    "id": "SU2456",
+    "from": "MOW",
+    "to": "PAR",
+    "date": "2026-02-20",
+    "time": "12:30",
+    "price": 27000,
+    "seats": 25,
+    "class": "economy",
+    "flight_key": "SU2456_0220"
+  },
+  {
+    "id": "SU2458",
+    "from": "MOW",
+    "to": "PAR",
+    "date": "2026-02-20",
+    "time": "18:30",
+    "price": 29000,
+    "seats": 10,
+    "class": "economy",
+    "flight_key": "SU2458_0220"
+  },
+  {
+    "id": "AF1845",
+    "from": "MOW",
+    "to": "PAR",
+    "date": "2026-02-20",
+    "time": "10:00",
+    "price": 32000,
+    "seats": 15,
+    "class": "business",
+    "flight_key": "AF1845_0220"
+  },
+  {
+    "id": "SU2580",
+    "from": "MOW",
+    "to": "LON",
+    "date": "2026-02-20",
+    "time": "09:00",
+    "price": 28000,
+    "seats": 12,
+    "class": "business",
+    "flight_key": "SU2580_0220"
+  },
+  {
+    "id": "BA234",
+    "from": "MOW",
+    "to": "LON",
+    "date": "2026-02-20",
+    "time": "14:00",
+    "price": 35000,
+    "seats": 8,
+    "class": "business",
+    "flight_key": "BA234_0220"
+  },
+  {
+    "id": "SU2454",
+    "from": "MOW",
+    "to": "PAR",
+    "date": "2026-02-21",
+    "time": "08:30",
+    "price": 24000,
+    "seats": 30,
+    "class": "economy",
+    "flight_key": "SU2454_0221"
+  },
+  {
+    "id": "SU2456",
+    "from": "MOW",
+    "to": "PAR",
+    "date": "2026-02-21",
+    "time": "12:30",
+    "price": 26000,
+    "seats": 20,
+    "class": "economy",
+    "flight_key": "SU2456_0221"
+  }
+]
